@@ -1,0 +1,40 @@
+{
+  "_from": "@meteorite/json-array",
+  "_id": "@meteorite/json-array@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-XDDInvQu4Ey9aSm3tkW+kxl737kd76B4Vta7L1LTWWVgSznoVL5sl14cXd4wv8fTrL42D2DqVUfAsKxZ4j/Ebw==",
+  "_location": "/@meteorite/json-array",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@meteorite/json-array",
+    "name": "@meteorite/json-array",
+    "escapedName": "@meteorite%2fjson-array",
+    "scope": "@meteorite",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@meteorite/json-array/-/json-array-1.0.0.tgz",
+  "_shasum": "11a5a154195b1d6f196a1db1b7daf1e5fd0cc12e",
+  "_spec": "@meteorite/json-array",
+  "_where": "E:\\privateWorkArea\\vue",
+  "author": {
+    "name": "李卓"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@meteorite/json-array",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
